@@ -25,13 +25,13 @@ h2{
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
-	/*padding: 5% 5%;*/
+	padding: 5% 10%;
 }
 
 p {
   color:#555;
   font-size:1em;
-  padding: 5% 10%;
+  margin: 0 0 20px 0;
 }
 
 .column {
