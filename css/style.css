@@ -37,7 +37,7 @@ p {
 .column {
   float: left;
   width: 25%;
-  padding: ;
+  padding: 5% 10%;;
 }
 
 .row::after {
