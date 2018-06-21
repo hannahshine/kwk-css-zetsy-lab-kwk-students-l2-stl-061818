@@ -35,7 +35,7 @@ p {
 }
 
 .column {
-  /*float: left;*/
+  float: right;
   width: 24%;
   /* padding: 1px; */
 }
